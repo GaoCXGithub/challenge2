@@ -1,2 +1,5 @@
 CX: jellyfish
 Iris: cat
+
+Today is Thursday. 
+Thank you very much!
